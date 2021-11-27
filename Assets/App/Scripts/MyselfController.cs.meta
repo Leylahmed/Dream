@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc6113dfdbe42544d926a5162e5e0fb2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teleportEffect: {instanceID: 0}
+  - player: {instanceID: 0}
+  - myselfAnimator: {instanceID: 0}
+  - bossController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a94c85e927caea945a8630c1153c2071
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bombPart: {instanceID: 0}
+  - bombCanvas: {instanceID: 0}
+  - bombPart1Canvas: {instanceID: 0}
+  - keyData: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
