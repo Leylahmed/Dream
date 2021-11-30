@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/App/Scenes/BedRoom.unity
-    guid: 5b43e479d9c939642b09b90cf9bbb481
-  - enabled: 1
     path: Assets/App/Scenes/Forest.unity
     guid: 4972730f6c0bb424c9a0fbb0c1dba94a
   m_configObjects: {}

@@ -464,3 +464,317 @@ Received Import Request.
 Start importing Assets/App/ScriptableObjects/KeyData.asset using Guid(ac44323aafcb8eb489e13e19c830ab2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8dc508e43557bf1ff34ff539c667ca') in 0.297699 seconds 
   Import took 0.314932 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2140.463567 seconds.
+  path: Assets/App/Scenes/BedRoom.unity
+  artifactKey: Guid(5b43e479d9c939642b09b90cf9bbb481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Scenes/BedRoom.unity using Guid(5b43e479d9c939642b09b90cf9bbb481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e58c581c96fe82fc2f116fd67af5f72') in 4.012618 seconds 
+  Import took 5.390783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.309296 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/2.png
+  artifactKey: Guid(23310d800a8334e4b8ea226987cffb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/2.png using Guid(23310d800a8334e4b8ea226987cffb76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1464be85e80523e3b44f43da9a8de124') in 5.920048 seconds 
+  Import took 5.926405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/115.png
+  artifactKey: Guid(379afc5e23b2e3047840c7457fd7572d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/115.png using Guid(379afc5e23b2e3047840c7457fd7572d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7ab389a4542950afe34a72bf7348a4f') in 0.193132 seconds 
+  Import took 0.254438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/14.png
+  artifactKey: Guid(6509cff9678509343b8e730028d0f434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/14.png using Guid(6509cff9678509343b8e730028d0f434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d0fc423465d291242ebd71da814feb') in 0.147511 seconds 
+  Import took 0.172718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/61.png
+  artifactKey: Guid(7755a1625e36ef845983790d66bedc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/61.png using Guid(7755a1625e36ef845983790d66bedc05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '988c62d1cec7b6ffbbf249bdab34113b') in 0.132679 seconds 
+  Import took 0.156368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/27.png
+  artifactKey: Guid(20cc94cd178898c4abf4ab578b32a726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/27.png using Guid(20cc94cd178898c4abf4ab578b32a726) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c32bdb07f50b1edd4c1f7e2cf334823') in 0.181666 seconds 
+  Import took 0.187717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/138.png
+  artifactKey: Guid(a62d9801a53f7e340a1ae069622db0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/138.png using Guid(a62d9801a53f7e340a1ae069622db0fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92a860a14b74783b0cb6916e79fcc11d') in 0.078686 seconds 
+  Import took 0.084685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/157.png
+  artifactKey: Guid(ea02e136d4a07724884ac82d002c92f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/157.png using Guid(ea02e136d4a07724884ac82d002c92f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c4564bd19dc45ed3b0d0b07556ca3f') in 0.182585 seconds 
+  Import took 0.188169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Simple Fantasy GUI/PNG/Loading Bar/Background_Bar.png
+  artifactKey: Guid(4527bf35c3959cf4b8ab578a90dcd02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Fantasy GUI/PNG/Loading Bar/Background_Bar.png using Guid(4527bf35c3959cf4b8ab578a90dcd02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd13832707b03f5d26d97d8ef201e27') in 1.095772 seconds 
+  Import took 1.122695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/App/Prefabs/bossModel.fbm/bear_normal.png
+  artifactKey: Guid(c56e5541c014a8843a4a6b357a7902cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Prefabs/bossModel.fbm/bear_normal.png using Guid(c56e5541c014a8843a4a6b357a7902cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65506dcb53144bd5acded99c0480d70e') in 0.277209 seconds 
+  Import took 0.282720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/144.png
+  artifactKey: Guid(485e4c1c2af46054b9a546618b0f135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/144.png using Guid(485e4c1c2af46054b9a546618b0f135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fbb295938f0757572f033ffd47ebb8') in 0.162115 seconds 
+  Import took 0.181800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/158.png
+  artifactKey: Guid(7de85ac696652c541abc0eac1df9ec32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/158.png using Guid(7de85ac696652c541abc0eac1df9ec32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8a65838dd2d1586e0e8a48ba09f569') in 0.178578 seconds 
+  Import took 0.185244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/App/Prefabs/bossModel.fbm/bear_specular.png
+  artifactKey: Guid(5a2046d684f557f48b39f27af6100b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Prefabs/bossModel.fbm/bear_specular.png using Guid(5a2046d684f557f48b39f27af6100b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49b47d2602e644a163e5ae05f65700a') in 0.174485 seconds 
+  Import took 0.203001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/83.png
+  artifactKey: Guid(b2c3bb1c8ff71584183a73b6bb0cfeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/83.png using Guid(b2c3bb1c8ff71584183a73b6bb0cfeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a80b157a2b71f491bd74d98e747d06c') in 0.114555 seconds 
+  Import took 0.134420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Simple Fantasy GUI/PNG/Icons/Accept_Icon.png
+  artifactKey: Guid(391f97da05cf45240a8ecdec752cd9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Fantasy GUI/PNG/Icons/Accept_Icon.png using Guid(391f97da05cf45240a8ecdec752cd9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb80bac898e4d7fbafb75b0cc8acb988') in 0.117061 seconds 
+  Import took 0.136094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/App/Textures/2053690.jpg
+  artifactKey: Guid(a866439b45ad3144f8d789d0ce3c5922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Textures/2053690.jpg using Guid(a866439b45ad3144f8d789d0ce3c5922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f302c740f23037217ede893087319cc1') in 0.086628 seconds 
+  Import took 0.092062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/130.png
+  artifactKey: Guid(71508bc4e9cfffd44817a3471607fe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/130.png using Guid(71508bc4e9cfffd44817a3471607fe92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfef3f41f11b43456958d4b5c4325cbc') in 0.121273 seconds 
+  Import took 0.126892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Simple Fantasy GUI/PNG/Icons/Armor_Icon.png
+  artifactKey: Guid(65a9410232dbc154c9cec96a5fbd07b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Fantasy GUI/PNG/Icons/Armor_Icon.png using Guid(65a9410232dbc154c9cec96a5fbd07b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61761c6f18d0659c07e2c232fbffe10') in 0.131061 seconds 
+  Import took 0.161960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/App/Prefabs/bossModel.fbm/bear_alpha.png
+  artifactKey: Guid(42f092fa5f01858438611002dc283ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Prefabs/bossModel.fbm/bear_alpha.png using Guid(42f092fa5f01858438611002dc283ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eee3db33c631701013f7d28243a1b2c') in 0.128447 seconds 
+  Import took 0.149570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/12.png
+  artifactKey: Guid(3388ebfa2e6b4dc4d871bd0d15be8ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/12.png using Guid(3388ebfa2e6b4dc4d871bd0d15be8ad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a5e37a692b61e3e8da8c63bc716135') in 0.128905 seconds 
+  Import took 0.160105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/10.png
+  artifactKey: Guid(ea6521c9ce1a50b4c99d2da07634b16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/10.png using Guid(ea6521c9ce1a50b4c99d2da07634b16f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b54691ff05637057aa0c3087590bf98') in 0.142461 seconds 
+  Import took 0.160681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/40.png
+  artifactKey: Guid(530a17719f4beb44baf5b7200d96ddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/40.png using Guid(530a17719f4beb44baf5b7200d96ddff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8b7f6129cc2b1084cf6a52b3b5d816') in 0.120713 seconds 
+  Import took 0.126400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/171.png
+  artifactKey: Guid(bc63d7e43e1375b40966284e506eaba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/171.png using Guid(bc63d7e43e1375b40966284e506eaba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a570491cd4d0f2bae91df71cb95b19') in 0.129329 seconds 
+  Import took 0.156672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/4.png
+  artifactKey: Guid(a9742acd5170fc645a104e47186df3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/4.png using Guid(a9742acd5170fc645a104e47186df3fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480a40ddc4de3d72900359c322cbc9ad') in 0.115490 seconds 
+  Import took 0.157492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/73.png
+  artifactKey: Guid(8059f8e21bf13824bb1ae1e81af9dbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/73.png using Guid(8059f8e21bf13824bb1ae1e81af9dbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2109797d72514f0bdda9acfe3eef6a97') in 0.154514 seconds 
+  Import took 0.160357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/App/Prefabs/bossModel.fbm/bear_diffuse.png
+  artifactKey: Guid(e90f8165f9a0aea459370c186c6b9938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/App/Prefabs/bossModel.fbm/bear_diffuse.png using Guid(e90f8165f9a0aea459370c186c6b9938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a888715776fd2f3feefd89ddbde7fd1d') in 0.125265 seconds 
+  Import took 0.130689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/140.png
+  artifactKey: Guid(bf66ae282801d504397bd91ab3d2259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/graphite/Textures/140.png using Guid(bf66ae282801d504397bd91ab3d2259b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8448f0c9410c7e157aff90e0b41d8309') in 0.127710 seconds 
+  Import took 0.147509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/28.png
+  artifactKey: Guid(62ac0d689504be842a3f3d9c94f3eede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/28.png using Guid(62ac0d689504be842a3f3d9c94f3eede) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6119525ead3b9dcb2311776f5215f9') in 0.126034 seconds 
+  Import took 0.149871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/54.png
+  artifactKey: Guid(916814a9dbae03049b769b57e662423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/54.png using Guid(916814a9dbae03049b769b57e662423d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4d54a8c03fd693ecf022d0e13435941') in 0.103820 seconds 
+  Import took 0.109624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/174.png
+  artifactKey: Guid(57f9b4b461adf144eb780350d1251922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/174.png using Guid(57f9b4b461adf144eb780350d1251922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4296c42c1eb63122590f22fcba09cb39') in 0.120833 seconds 
+  Import took 0.126518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/36.png
+  artifactKey: Guid(e7c63788d0b0ed1438ae778d7fba0dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/36.png using Guid(e7c63788d0b0ed1438ae778d7fba0dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a1fa20d064e332b15d9f33c7c911d0') in 0.137851 seconds 
+  Import took 0.144576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/85.png
+  artifactKey: Guid(0c915d4cb5c581144a3739d7cf2e9f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/ballpoint/Textures/85.png using Guid(0c915d4cb5c581144a3739d7cf2e9f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6a9d5135bbcf07e2a497e07abde9f1') in 0.112353 seconds 
+  Import took 0.144333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/18.png
+  artifactKey: Guid(f318dd9e5023fe541ae2e2d8dedf1525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/acrylics/Textures/18.png using Guid(f318dd9e5023fe541ae2e2d8dedf1525) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c2ec2074cb09aad75a66cfc2d32f6e') in 0.126523 seconds 
+  Import took 0.131837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/166.png
+  artifactKey: Guid(a33aac0c2d53a2b4ca532f786ea45dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/!VibrantEffectTexturesFreePack/specks/Textures/166.png using Guid(a33aac0c2d53a2b4ca532f786ea45dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6303aa90c5f549c7217d4415d10c0da') in 0.129971 seconds 
+  Import took 0.154151 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 359.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.5 MB.
+System memory in use after: 92.1 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3389.
+Total: 2850.911600 ms (FindLiveObjects: 0.603600 ms CreateObjectMapping: 0.123800 ms MarkObjects: 2840.847500 ms  DeleteObjects: 9.334200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 125.18 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.5 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3389.
+Total: 31.075100 ms (FindLiveObjects: 0.303300 ms CreateObjectMapping: 0.113600 ms MarkObjects: 30.112100 ms  DeleteObjects: 0.544100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
